@@ -29,8 +29,6 @@ Graph is saved at [1-cross-hyperparameters.png](./1-cross-hyperparameters.png).
 
 ![1-cross-hyperparameters.png](1-cross-hyperparameters.png)
 
-![1a-cross-hyperparameters.png](1a-cross-hyperparameters.png)
-
 ## Experiment 2
 ```bash
 Rscript 2-strategies.R
